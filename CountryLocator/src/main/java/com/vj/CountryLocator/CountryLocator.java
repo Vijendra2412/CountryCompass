@@ -17,7 +17,7 @@ package com.vj.CountryLocator;
         import java.util.Map;
 
 public class CountryLocator {
-    private static final String SHAPEFILE_PATH = "private static final String SHAPEFILE_PATH = \"C:\\\\Users\\\\virug\\\\Downloads\\\\CountryLocator\\\\CountryLocator\\\\admin_0\\\\ne_10m_admin_0_countries.shp\";\n";
+    private static final String SHAPEFILE_PATH = " \"C:\\\\Users\\\\virug\\\\Downloads\\\\CountryLocator\\\\CountryLocator\\\\admin_0\\\\ne_10m_admin_0_countries.shp\";\n";
     private static final String ISO_A2_ATTRIBUTE = "ISO_A2";
     private SimpleFeatureCollection features;
 
